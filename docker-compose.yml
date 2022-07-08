@@ -1,0 +1,6 @@
+version: '3.3'
+services:
+    marseysearch:
+        ports:
+            - '1234:1234'
+        image: 'marseysearch:latest'
