@@ -3,4 +3,4 @@ services:
   - type: web
     name: marseysearch
     env: docker
-    
+    plan: free
